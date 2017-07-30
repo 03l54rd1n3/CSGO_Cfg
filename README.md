@@ -1,1 +1,1 @@
-#junieK CS:GO Configs
+# junieK CS:GO Configs
